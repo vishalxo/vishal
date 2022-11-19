@@ -1,0 +1,9 @@
+{
+    "name":"Vishal",
+    "description":"Let the crazy of FIFA Begin",
+    "version" : "0.0.1",
+    "manifest_version" :3,
+    "action" :{
+        "default_popup":"Vishal.html"
+    }
+}
